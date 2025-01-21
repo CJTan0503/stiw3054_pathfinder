@@ -1,7 +1,7 @@
 # JPF configuration file
 target=UncaughtException
-classpath=D:/stiw3054_pathfinder/out/production/stiw3054_pathfinder
-sourcepath=D:/stiw3054_pathfinder/src
+classpath=C:/Users/Asus Pc/OneDrive/Documents/GitHub/stiw3054_pathfinder/out/production/stiw3054_pathfinder
+sourcepath=C:/Users/Asus Pc/OneDrive/Documents/GitHub/stiw3054_pathfinder/src
 
 # JPF options
 vm.class=gov.nasa.jpf.vm.SingleProcessVM

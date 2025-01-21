@@ -1,2 +1,4 @@
 target=Racer
+classpath=${jpf-stiw3054}/out/production/stiw3054_pathfinder
+sourcepath=${jpf-stiw3054}/src
 listener=gov.nasa.jpf.listener.PreciseRaceDetector
